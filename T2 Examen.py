@@ -1,0 +1,1 @@
+input=int("Que chucha me lees rctmr")
